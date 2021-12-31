@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning about Pentesting and do coding in python;
 - 💬 Ask me about anything, I'm happy to help;
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/ayush-kumar-295650177">@ayush</a>;
-- ✍️ I regulary write articles on, you can visit <a href="3xabyt3.medium.com">medium</a>;
+- ✍️ I regulary write articles on medium, you can visit <a href="3xabyt3.medium.com">medium</a>;
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 <!-- - 👯 I’m looking to collaborate on ...
