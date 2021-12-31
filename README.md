@@ -1,10 +1,12 @@
 ### Hi there, I'm Ayush 👋
 
+I'm pursuing computer science and engineering from Kolhapur, India curently I'm in third year and I'm working on different skills like pentesting, cloud computing, networking, dsa etc.
+<h3>Taling about personal stuffs:</h1>
 <!--
 **ayush098-hub/ayush098-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
  -->
+ 
 - 🔭 I’m currently working on a python based projects;
 - 🌱 I’m currently learning DSA in python & also spent my time on my Pentesting Skills to improve it;
 - 💬 Ask me about anything, I'm happy to help;
