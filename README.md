@@ -7,7 +7,7 @@ I'm pursuing computer science and engineering from Kolhapur, India curently I'm 
 Here are some ideas to get you started:
  -->
  
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="300" />
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="430" height="300" />
  
 - 🔭 I’m currently working on a python based projects;
 - 🌱 I’m currently learning about Pentesting and do coding in python;
