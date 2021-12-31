@@ -28,3 +28,8 @@ Here are some ideas to get you started:
 </p> 
 
 <h3>Latest Medium Blogs:</h3>
+
+<li><a href="https://infosecwriteups.com/information-gathering-in-penetration-testing-770e01bab326">Information Gathering in Penetration Testing</a><br></li>
+<li><a href="https://infosecwriteups.com/owasp-top-10-tryhackme-all-in-one-writeup-68ae5ab37d57">OWASP Top 10 Tryhackme</a><br></li>
+<li><a href="https://infosecwriteups.com/tcp-ip-networking-model-69686f893569">TCP/IP Networking Model</a><br></li>
+<li><a href="https://infosecwriteups.com/subnetting-a-networking-concept-161a82aff954">Subnetting</a></li>
