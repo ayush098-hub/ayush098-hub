@@ -7,10 +7,10 @@ I'm pursuing computer science and engineering from Kolhapur, India curently I'm 
 Here are some ideas to get you started:
  -->
  
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="300" />
  
 - 🔭 I’m currently working on a python based projects;
-- 🌱 I’m currently learning DSA in python & also spent my time on my Pentesting Skills to improve it;
+- 🌱 I’m currently learning about Pentesting and do coding in python;
 - 💬 Ask me about anything, I'm happy to help;
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/ayush-kumar-295650177">@ayush</a>;
 - ✍️ I regulary write articles on, you can visit <a href="3xabyt3.medium.com">medium</a>;
@@ -25,4 +25,6 @@ Here are some ideas to get you started:
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ayush098-hub&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush098-hub&exclude_repo=KNN-Image Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/> -->
-</p> -->
+</p> 
+
+<h3>Latest Medium Blogs:</h3>
