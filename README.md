@@ -31,6 +31,6 @@ Here are some ideas to get you started:
 <li><a href="https://infosecwriteups.com/information-gathering-in-penetration-testing-770e01bab326" target="_blank" >Information Gathering in Penetration Testing</a><br></li>
 <li><a href="https://infosecwriteups.com/owasp-top-10-tryhackme-all-in-one-writeup-68ae5ab37d57" target="_blank">OWASP Top 10 Tryhackme</a><br></li>
 <li><a href="https://infosecwriteups.com/tcp-ip-networking-model-69686f893569" target="_blank">TCP/IP Networking Model</a><br></li>
-<li><a href="https://infosecwriteups.com/subnetting-a-networking-concept-161a82aff954" target="_blank">Subnetting</a></li>
+<li><a href="https://infosecwriteups.com/subnetting-a-networking-concept-161a82aff954" target="_blank">Subnetting</a></li><br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush098-hub&theme=tokyonight)
