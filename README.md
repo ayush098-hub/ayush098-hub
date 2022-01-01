@@ -12,8 +12,8 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on a python based projects;
 - 🌱 I’m currently learning about Pentesting and do coding in python;
 - 💬 Ask me about anything, I'm happy to help;
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/ayush-kumar-295650177">@ayush</a>;
-- ✍️ I regulary write articles on medium, you can visit <a href="3xabyt3.medium.com">medium</a>;
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/ayush-kumar-295650177"  target=”_blank” >@ayush</a>;
+- ✍️ I regulary write articles on medium, you can visit <a href="3xabyt3.medium.com" target=”_blank” >medium</a>;
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 <!-- - 👯 I’m looking to collaborate on ...
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 <h3>Latest Medium Blogs:</h3>
 
-<li><a href="https://infosecwriteups.com/information-gathering-in-penetration-testing-770e01bab326">Information Gathering in Penetration Testing</a><br></li>
-<li><a href="https://infosecwriteups.com/owasp-top-10-tryhackme-all-in-one-writeup-68ae5ab37d57">OWASP Top 10 Tryhackme</a><br></li>
-<li><a href="https://infosecwriteups.com/tcp-ip-networking-model-69686f893569">TCP/IP Networking Model</a><br></li>
-<li><a href="https://infosecwriteups.com/subnetting-a-networking-concept-161a82aff954">Subnetting</a></li>
+<li><a href="https://infosecwriteups.com/information-gathering-in-penetration-testing-770e01bab326" target=”_blank” >Information Gathering in Penetration Testing</a><br></li>
+<li><a href="https://infosecwriteups.com/owasp-top-10-tryhackme-all-in-one-writeup-68ae5ab37d57 target=”_blank” ">OWASP Top 10 Tryhackme</a><br></li>
+<li><a href="https://infosecwriteups.com/tcp-ip-networking-model-69686f893569" target=”_blank” >TCP/IP Networking Model</a><br></li>
+<li><a href="https://infosecwriteups.com/subnetting-a-networking-concept-161a82aff954" target=”_blank” >Subnetting</a></li>
