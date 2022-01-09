@@ -33,4 +33,5 @@ Here are some ideas to get you started:
 <li><a href="https://infosecwriteups.com/tcp-ip-networking-model-69686f893569" target="_blank">TCP/IP Networking Model</a><br></li>
 <li><a href="https://infosecwriteups.com/subnetting-a-networking-concept-161a82aff954" target="_blank">Subnetting</a></li><br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush098-hub&theme=tokyonight)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush098-hub&theme=tokyonight) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush098-hub)](https://github.com/ayush098-hub/github-readme-stats)
