@@ -8,7 +8,7 @@ Here are some ideas to get you started:
  -->
 <img  align="right" alt="GIF" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47udtdqaagnecg7mfu3mtvtvc90zvz2sjugyuoezd0&rid=giphy.gif&ct=g" width="400" height="300"/>
 
-- 🔭 I’m currently working on #100daysofhacking challenge;
+- 🔭 I’m currently working on <a href="3xabyt3.medium.com">#100daysofhacking</a> challenge;
 - 🌱 I’m currently learning about Pentesting and do coding in python;
 - 💬 Ask me about anything, I'm happy to help;
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/ayush-kumar-295650177"  target="_blank" >@ayush</a>;
